@@ -17,6 +17,6 @@
 ## 🔗 Connect with Me
 - GitHub: https://github.com/gagandeepkaur7099-ux
 - LeetCode: https://leetcode.com/u/kaurgagan_cse/
-- HackerRank: (Add your HackerRank profile link)
+- HackerRank: https://www.hackerrank.com/profile/gagandeepkaur701
 
 ⭐ Thanks for visiting my profile!
